@@ -13,7 +13,7 @@
 
 ### Data Cleaning and Analysis 
 
-* 
+
 * Determining Limit of Detection (LOD) values of each element based upon the calculated minimum value and included statistical error values. 
 
 ### Data Storage 
